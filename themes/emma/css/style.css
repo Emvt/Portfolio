@@ -40,6 +40,10 @@ body {
     justify-content: space-between;
 }
 
+.logo img {
+    width: 100px;
+}
+
 /* Title */
 
 .title, .logo {
